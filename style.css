@@ -102,9 +102,9 @@ div.line3{
 }
 
 #whatcopo{
-  margin-left:25%;
+  /* margin-left:; */
   padding: 20px;
-  width: 50%;
+  /* width: 70%; */
   font-weight: 300;
   font-size: 22px;
   line-height: 30px;
