@@ -9,6 +9,11 @@ article{
   padding: 100px
 }
 
+p {
+  font-size: 18px;
+  /* line-height: 20px; */
+
+}
 @media only screen and (min-width: 600px) {
   h1.draft{
     background-color: #dddddd;
@@ -108,20 +113,51 @@ div.line3{
     line-height: 60px;
 }
 
+#whatDraft p{
+  font-size: 40px;
+}
+
 #whatcopo{
   /* margin-left:; */
   padding: 20px;
   /* width: 70%; */
   font-weight: 300;
-  font-size: 22px;
+
   line-height: 30px;
 }
 
-.aboutDraft{
-  font-weight: 300;
-  font-size: 18px;
+#whatcopo p{
+  font-size: 22px;
+}
+
+
+
+p.aboutDraft{
+  font-weight: 100;
+  font-size: 18px !important;
 }
 
 h1.draft:hover {
   background-color: yellow;
 }
+
+.tldr{
+  background: #eeeeee;
+  padding: 20px;
+  padding-left: 30px;
+  padding-right: 35px;
+  border-radius: 10px;
+  margin-bottom: 40px;
+}
+
+/* .divider{
+  /* display: block; */
+  width: auto;
+  height: 100px;
+  color: red;
+  border-top: #cccccc;
+  border-color: 3px;
+  padding: 10px;
+  margin: 100px;
+
+} */
