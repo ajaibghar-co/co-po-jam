@@ -46,15 +46,23 @@ p {
     right: 100px;
     top: 225px
   }
-
-  .RSVP{
+  .time{
     float:right;
     position: fixed;
     right: 100px;
     top: 260px
   }
+  .RSVP{
+    float:right;
+    position: fixed;
+    right: 100px;
+    top: 300px
+  }
 
-
+.eventName{
+  font-weight: 700;
+  font-size: 35px;
+}
   .codesnip{
     /* background-color: #eeeeee; */
     padding: 25px;
