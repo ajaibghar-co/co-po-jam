@@ -172,11 +172,11 @@ h1.draft:hover {
 
 .present{
   /* background: #eeeeee; */
-  padding: 5px 5px 5px 20px;
+  padding: 5px 10px 5px 20px;
   /* padding-right: 35px; */
   /* padding-left: 30px; */
   /* border-radius: 10px; */
-  border-style:  solid;
+  border-style: solid;
   border-color: #eeeeee;
   margin-bottom: 40px;
 }
