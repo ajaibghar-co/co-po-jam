@@ -185,3 +185,30 @@ p.bio{
   font-weight: 700;
   /* font-size: 20px */
 }
+
+.coc-line{
+    border-style: solid none none none;
+    border-color: #dddddd;
+    border-width: thin;
+    /* margin-bottom: 25px; */
+    width:50%;
+      margin-left:25%;
+}
+p.coc{
+  /* font-family: inherit; */
+  font-weight: 100;
+  font-size: 12px !important;
+  line-height: 18px;
+  color: #555555;
+  /* width:50%; */
+    margin-left:25px;
+    margin-right: 25px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+#frameYT{
+  width:50%;
+    margin-left:25%;
+
+}
