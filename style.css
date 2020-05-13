@@ -160,12 +160,28 @@ h1.draft:hover {
 
 /* .divider{
   /* display: block; */
-  width: auto;
+  /* width: auto;
   height: 100px;
   color: red;
   border-top: #cccccc;
   border-color: 3px;
   padding: 10px;
-  margin: 100px;
+  margin: 100px; */
 
-} */
+/* } */
+
+.present{
+  /* background: #eeeeee; */
+  padding: 5px 5px 5px 20px;
+  /* padding-right: 35px; */
+  /* padding-left: 30px; */
+  /* border-radius: 10px; */
+  border-style:  solid;
+  border-color: #eeeeee;
+  margin-bottom: 40px;
+}
+
+p.bio{
+  font-weight: 700;
+  /* font-size: 20px */
+}
