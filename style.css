@@ -6,7 +6,7 @@ body, html {height: 100%;}
 
 /* #page1{} */
 article{
-  padding: 100px
+  padding: 50px 100px 100px 100px; 
 }
 
 p {
@@ -75,6 +75,7 @@ p {
   }
 
 }
+/* when smaller than 600px */
 @media only screen and (max-width: 600px) {
   .header{
     text-align: center;
@@ -209,6 +210,15 @@ p.coc{
 
 #frameYT{
   width:50%;
-    margin-left:25%;
+  margin-left:25%;
 
+}
+
+.end-line{
+    border-style: solid none none none;
+    border-color: #dddddd;
+    border-width: thin;
+    /* margin-bottom: 25px; */
+    width:60%;
+      /* margin-left:25%; */
 }
