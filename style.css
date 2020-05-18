@@ -6,7 +6,7 @@ body, html {height: 100%;}
 
 /* #page1{} */
 article{
-  padding: 50px 100px 100px 100px; 
+  padding: 50px 100px 100px 100px;
 }
 
 p {
@@ -35,7 +35,7 @@ p {
   h1{
     float:right;
     position: fixed;
-    /* top:auto; */
+    top:auto;
     right: 100px;
     color: black;
   }
@@ -221,4 +221,9 @@ p.coc{
     /* margin-bottom: 25px; */
     width:60%;
       /* margin-left:25%; */
+}
+
+.signup{
+
+  width: inherit;
 }
